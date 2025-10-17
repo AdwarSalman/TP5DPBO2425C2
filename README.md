@@ -159,3 +159,9 @@ Update + ID
 
 https://github.com/user-attachments/assets/4d152f2c-2a58-4566-9a47-13bba872f856
 
+Delete
+
+https://github.com/user-attachments/assets/520818ae-c91e-470e-aa0c-6fbd1eeb3bf5
+
+
+
